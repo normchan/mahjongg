@@ -1,0 +1,3 @@
+#!/bin/sh
+
+java -cp bin:lib/commons-logging-1.1.1.jar:lib/log4j-1.2.16.jar normchan.mj.game.MJGame
